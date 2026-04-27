@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- I know SRB2 Lua, a bit of Python/JS
-- I’m currently learning Lemon Script
-- How to reach me: space
-- Pronouns: he/him
-- Fun fact: code comments go brrr
+- 🌀 I know SRB2 Lua, a bit of Python/JS
+- 🌱 I’m currently learning Lemon Script
+- 🌐 How to reach me: space
+- ⛅️ Pronouns: he/him
+- 🔥 Fun fact: code comments go brrr
