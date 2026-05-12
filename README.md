@@ -13,9 +13,15 @@ Here are some ideas to get you started:
 - 🔥 Fun fact: code comments go brrr
 
 Things i hate:
-1. README's
-2. Lists
-3. Irony
-4. Lists
-5. Repetition
-F. Inconsistency
+
+-1. README's
+
+-2. Lists
+
+-3. Irony
+
+-4. Lists
+
+-5. Repetition
+
+-F. Inconsistency
