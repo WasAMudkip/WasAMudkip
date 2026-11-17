@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🌀 I know SRB2 Lua, a bit of Python/JS
-- 🌱 I’m currently learning Lemon Script
+- 🌀 I know SRB2 Lua, a bit of Python
+- 🌱 I’m currently learning C#
 - 🌐 How to reach me: space
 - ⛅️ Pronouns: he/him
-- 🔥 Fun fact: code comments go brrr
+- 🔥 Fun fact: If you put "fun fact" at the start people will read it when it can be anything like this. You just read that sentence because i put fun fact.
 
 Things i hate:
 
